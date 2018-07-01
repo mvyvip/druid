@@ -1,7 +1,7 @@
 # Druid Spring Boot Starter
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.alibaba/druid-spring-boot-starter/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.alibaba/druid-spring-boot-starter/)
 
-## 中文 | [English](https://github.com/alibaba/druid/blob/master/druid-spring-boot-starter/README_EN.md)  
+## SPRING-BOOT | [SPRING](http://gitlab.develop.feedel.net/modules/eaglet-security/README_SPRING.md)  
 Druid Spring Boot Starter 用于帮助你在Spring Boot项目中轻松集成Druid数据库连接池和监控。
 
 ## 如何使用
